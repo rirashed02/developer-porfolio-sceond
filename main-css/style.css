@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+.section-one{
+    display:flex;
+    margin-bottom: 100px;
+    
+    
+}
+
+h1{
+    font-size:50px;
+}
+.orange-color{
+    color:tomato;
+}
+h3{
+    color:brown;
+}
+.half-width{
+    width:50%;
+    padding:0 5%;
+}
+.half-width img{
+    width:90%;
+}
